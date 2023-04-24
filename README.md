@@ -1,3 +1,5 @@
+== Forked from https://github.com/arun-babu/mutate.py ==
+
 A simple mutation script
 ==========================
 This is a simple python script for performing mutation testing. It can generate mutants for C programs.
